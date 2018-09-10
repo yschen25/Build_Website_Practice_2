@@ -9,7 +9,7 @@
 
         * Replacing js functionality with css properties
         * Using CDN file instead of using local file 
-        * Optimizing layout, e.g., input, hyper link, transition
+        * Optimizing layout, e.g., input, hyperlink, transition
         * Adding real Google Map to replace the fake image
         * Fixing bugs
 <br/>
