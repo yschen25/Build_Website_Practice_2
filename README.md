@@ -1,11 +1,11 @@
 # Website_Building_Practice_2
 
-         * To practice build a website
+         * To practice build the website
 <br/>         
          
 ## Update
 
-* **2018.9.06**
+* **2018.09.06**
 
         * Replacing js functionality with css properties
         * Using CDN file instead of using local file 
