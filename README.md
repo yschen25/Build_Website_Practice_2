@@ -1,17 +1,18 @@
-# Build_Website_Practice_2
+# Website_Building_Practice_2
 
-         * To practice build website
+         * To practice build a website
+<br/>         
          
-         
-## Description
+## Update
 
-It's the second version that I optimize some parts
+* **2018.9.06**
 
         * Replacing js functionality with css properties
         * Using CDN file instead of using local file 
-        * Optimize layout, e.g., input、hyper link、transition
-        * Add real Google Map to replace the fake img 
-        * Fix bug
+        * Optimizing layout, e.g., input, hyper link, transition
+        * Adding real Google Map to replace the fake image
+        * Fixing bugs
+<br/>
         
 ## References
 It's take a [template](https://livedemo00.template-help.com/wt_58200/) for template to practice
