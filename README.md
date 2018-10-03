@@ -1,6 +1,6 @@
 # Website_Building_Practice_2
 
-To practice build the website.
+To practice build the website 2, take the other website as a template to practice more CSS and JavaScript.
 <br/>
 <br/>
 
