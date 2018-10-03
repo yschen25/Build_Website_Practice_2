@@ -1,8 +1,14 @@
 # Website_Building_Practice_2
 
-         * To practice build the website
-<br/>         
-         
+To practice build the website.
+<br/>
+<br/>
+
+## Demo
+
+### **[WEBSITE BUILDING PRACTICE 2](https://yschen25.github.io/Website_Building_Practice_2/) -> Where You Can See the Website**
+<br/>    
+
 ## Update
 
 * **2018.09.06**
@@ -15,4 +21,4 @@
 <br/>
         
 ## References
-It's take a [template](https://livedemo00.template-help.com/wt_58200/) for template to practice
+It's take this [website](https://livedemo00.template-help.com/wt_58200/) for template to practice.
